@@ -1,0 +1,15 @@
+{
+
+	"Sewerslvt_Cynthoni_Fennec": {
+		"BodyID": 4284,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "chassis.png"
+		},
+
+		"Body": {
+			"Diffuse": "diffuse.png",
+			"Skin": "skin.png"
+		}
+	}
+}
